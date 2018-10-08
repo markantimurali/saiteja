@@ -1,0 +1,69 @@
+.difined{list-style-type: none;
+	display: flex;
+}
+.difined li{margin:10px;
+ border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 12px;}
+
+.undifined a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.ned{list-style-type: none;
+	display: flex;
+	float: right;}
+	.ned li{ margin: 10px; 
+		border-radius: 53px;
+    background: #73AD21;
+    padding: 22px; 
+    width: 50px;
+    height: 10px;}
+	.undifined{display: flex;
+		background-color: #C0C0C0;
+	padding: 0px;
+	border-radius:70px; }
+	.ndifined{float: right;
+		width: 50%
+	}
+	.user_img {
+    border-radius: 50%;
+    margin: 15px;
+}
+	.fined{width:60%;}
+	.setup{ border: 1px solid black;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-right:960px;
+    background-color: lightblue;
+    border-radius: 25px;
+	}
+	.ur{border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+    background-color: lightblue;}
+    .wr{border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+    background-color: lightblue;}
+    .rr{list-style-type: none;
+	display: flex;}
+	.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;}
+  .default_header_logo{
+  	height: 100px;
+  	width: 15%;
+  } 
+  .up{margin: 0px;}
+  .detais_img1{ height: 80px;
+  margin-left: 130px; 
+border-radius: 25px;}
